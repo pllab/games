@@ -36,6 +36,10 @@ blockquote::first-letter {
  padding-left: 3px;
 }
 
+blockquote p {
+ text-align: justify;
+}
+
 li {
  padding-bottom: 10px;
 }
