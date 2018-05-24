@@ -5,6 +5,7 @@
 ### Current Schedule
 
 Weekly Board Game Meetups: **Tuesday, 4pm onwards**
+
 Weekly RPG Sessions: **Wednesday, 5pm-8pm**
 
 ### Roleplaying Session Planner
