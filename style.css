@@ -22,11 +22,11 @@ br:after {
  text-indent: 3em;
 }
 
-li:first-child {
+li *:first-child {
  text-align: left;
 }
 
-li:not(:first-child) {
+li *:not(:first-child) {
  text-indent: 3em;
 }
 
