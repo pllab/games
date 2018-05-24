@@ -11,9 +11,9 @@ Weekly RPG Sessions: **Wednesday, 5pm-8pm**
 ### Roleplaying Session Planner
 
 Currently playing: 
-- **Blades in the Dark** (host: Burak Kadron)
++ **Blades in the Dark** (host: Burak Kadron)
 
 Future plans include:
-- **Godbound** (host: Miroslav Gavrilov)
-- **The Sprawl** (host: Mehmet Emre)
++ **Godbound** (host: Miroslav Gavrilov)
++ **The Sprawl** (host: Mehmet Emre)
 
