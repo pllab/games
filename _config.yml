@@ -1,4 +1,4 @@
-theme: jekyll-theme-merlot
-baseurl: /games
+#theme: jekyll-theme-merlot
+baseurl: /
 title: Denizens of the Deep 
-
+remote_theme: artemsheludko/adam-blog
