@@ -12,7 +12,10 @@ body {
  text-align: justify;
 }
 
-li > br::after {
+br::after {
 	text-indent: 3em;
 }
 
+li {
+	padding-bottom: 5px;
+}
