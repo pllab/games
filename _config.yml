@@ -1,4 +1,4 @@
-theme: minima
+theme: jekyll-theme-tactile
 baseurl: /cats
 title: Category Theory Reading Group
 
