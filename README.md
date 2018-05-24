@@ -33,4 +33,4 @@ Distant future ideas:
 + **Star Wars: Edge of the Empire**
 + **Dragon Age**
 
-
+Amazing background art by [cryptcrawler](https://cryptcrawler.deviantart.com/art/Demonic-Queen-446923457).

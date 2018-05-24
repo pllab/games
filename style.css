@@ -8,14 +8,18 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 body {
- width: 640px;
  text-align: justify;
+ background-image: url(background.jpg);
+ height: 100%;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
 }
 
-br::after {
-	text-indent: 3em;
+br:after {
+ text-indent: 3em;
 }
 
 li {
-	padding-bottom: 5px;
+ padding-bottom: 10px;
 }
