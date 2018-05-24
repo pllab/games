@@ -7,9 +7,13 @@
 
 1. Change `README.md` to have new content
 2. Run `./build`
-3. Transplant `index.html` and `README.md` into `master`
+3. Add, commit and push to `development`
+4. `git checkout master`
+5. `git checkout development index.html README.md`
 
 # Changing style
 
 1. Change `style.css` to fit the bill
-2. Transplant `style.css` to `master`
+2. Add, commit and push to `development`
+3. `git checkout master`
+4. `git checkout development style.css`
