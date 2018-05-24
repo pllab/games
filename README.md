@@ -4,7 +4,9 @@
 
 ### Current Schedule
 
-These schedules change quarterly, so be sure to check back for an up-to-date time! The PL Lab is in **Phelps Hall, room 3518**.
+These schedules change quarterly, so be sure to check back for an up-to-date time! 
+
+The Programming Languages Lab is in **Phelps Hall, room 3518**.
 
 Weekly RPG Sessions: **Wednesday, 5pm-8pm**
 
