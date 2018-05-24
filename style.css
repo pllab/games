@@ -29,8 +29,8 @@ li *:first-child {
 blockquote::first-letter {
  float: left;
  font-family: 'Fira Sans';
- font-size: 75px;
- line-height: 60px;
+ font-size: 64px;
+ line-height: 50px;
  padding-top: 4px;
  padding-right: 4px;
  padding-left: 3px;
