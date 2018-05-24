@@ -30,7 +30,7 @@ Future plans include:
 + **Godbound** (host: Miroslav Gavrilov, accepting 2-3 more players)
 > The Throne stands empty. Heaven has fallen, and the Words of Creation thunder from new throats. Undestined, unfettered, unchosen, you are Godbound, and your will is writ with fire. Godbound is a game of divine heroes in a broken world, men and women who have seized the tools that have slipped from an absent God's hands.
 + **The Sprawl** (host: Mehmet Emre, team not yet assembled)
-> Deniable, professional, and ultimately disposable. In The Sprawl, you play the extended assets of vast multinational corporations, operating in the criminal underground, and performing the tasks that those multinationals can’t do, or can’t be seen to do. The Sprawl takes the framework of Vincent Baker’s award-winning Apocalypse World engine and focuses it on creating stories about badass professionals living outside the law, struggling against the man, sometimes winning, 
+> Deniable, professional, and ultimately disposable. In The Sprawl, you play the extended assets of vast multinational corporations, operating in the criminal underground, and performing the tasks that those multinationals can’t do, or can’t be seen to do. The Sprawl takes the framework of Vincent Baker’s award-winning Apocalypse World engine and focuses it on creating stories about badass professionals living outside the law, struggling against the man and sometimes winning.
 
 Distant future ideas:
 + **13th Age**
