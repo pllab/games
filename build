@@ -1,0 +1,4 @@
+#!/bin/bash
+pandoc --from markdown_github --to html README.md --output body.html
+cat start.html body.html end.html > index.html
+rm body.html
